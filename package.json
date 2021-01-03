@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "chafi",
+	"description": "Free Code Camp apis and microservices",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
